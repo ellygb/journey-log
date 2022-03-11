@@ -64,18 +64,7 @@ Tracking my journey to learn programming
 		</tr>
 		<tr>
 			<td colspan="4">I made a start on my final project, I decided againt the iOS app as I think I've just started to get my head around Python/Flask web apps and I want to understand more so decided to build a tool for my day job that is a web app with SQL database.</td>
-		</tr>
-		<tr>
-			<td>2022-03-03</td>
-			<td>-</td>
-			<td></td>
-			<td>118</td>
-		</tr>
-		<tr>
-			<td colspan="4">
-			</td>
-		</tr>
-		
+		</tr>	
 		<tr>
 			<td>2022-03-03</td>
 			<td>-</td>
