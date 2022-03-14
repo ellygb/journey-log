@@ -12,10 +12,19 @@ Tracking my journey to learn programming
 	</thead>
 	<tbody>
 		<tr>
+			<td>2022-03-13</td>
+			<td>49</td>
+			<td>6</td>
+			<td>154</td>
+		</tr>
+		<tr>
+			<td colspan="4">Still working on CS50 final project. Want to add some graphs and data visualisations which I have no idea how to do so that's the next challenge, but most functionality is now built!</td>
+		</tr>
+		<tr>
 			<td>2022-03-10</td>
 			<td>49</td>
 			<td>2</td>
-			<td>150</td>
+			<td>148</td>
 		</tr>
 		<tr>
 			<td colspan="4">Every entry before this was added based on notes I'd taken or the blog posts I'd written as my first attempt at tracking my progress. I really don't think that's sustainable so have created this repo where I can add a little note rather than writing a whole post. My thinking is that I can build a program to add this info from the command line and automate it, but who knows! I'm also adding typing speed tracking to my stats!</td>
