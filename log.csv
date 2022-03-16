@@ -1,0 +1,56 @@
+id,date,project_id,task,hours,description,project_hours,total_hours
+1,2021-11-27,,,,"I'm a graphic designer who wants to learn to code. I've dabbled before but never taken it very far so I'm planning on really getting stuck in this time. I really enjoy problem solving and creating things. At this stage I don't think I'm very interested in web development, I can't quite pinpoint why I just don't really think I would enjoy it. I'm maybe considering data science as a route as I have always been a pretty big maths nerd but it may be well over my head. I'm going to start with Harvard's CS50 and see where it takes me!",0,0
+2,2021-12-04,1,Lecture 0,1.75,"I love David Malan's teaching style! The first lecture was very enjoyable and I am glad we're going to be covering lots of theory, I really enjoyed finding out all about binary.",1.75,1.75
+3,2021-12-11,1,Scratch,12,"I spent far too long on Scratch as I'm such a perfectionist. It was fun, I learnt a lot about basic syntax and just getting to grips with what you can do. I wanted to design everything from *scratch* but had to stop myself so I could move on to the next week!",13.75,13.75
+4,2021-12-12,1,Lecture 1,2.25,,16,16
+5,2021-12-12,1,Hello,0.25,,16.25,16.25
+6,2021-12-12,1,Population Growth,0.75,,17,17
+7,2021-12-13,1,Mario (more),1.5,,18.5,18.5
+8,2021-12-13,1,Credit,2,,20.5,20.5
+9,2021-12-13,1,Cash,1,"Didn't need to Cash, but was enjoying it so did it anyway",21.5,21.5
+10,2021-12-15,1,Lecture 2,2.5,,24,24
+11,2021-12-16,1,Scrabble,1,,25,25
+12,2021-12-16,1,Readability,1.5,,26.5,26.5
+13,2021-12-16,1,Substitution,2,,28.5,28.5
+14,2021-12-18,1,Lecture 3,2.5,,31,31
+15,2021-12-18,1,Sort,0.5,,31.5,31.5
+16,2021-12-18,1,Plurality,1,It feels like it's getting trickier!,32.5,32.5
+17,2021-12-19,1,Tideman,4,I really struggled and did resort to googling quite a lot but I got there!,36.5,36.5
+18,2021-12-20,1,Runoff,1.25,I wanted to do Runoff because I struggled with Tideman.,37.75,37.75
+19,2021-12-28,1,Lecture 4,2.5,,40.25,40.25
+20,2021-12-28,1,Volume,0.25,,40.5,40.5
+21,2021-12-28,1,Filter (less),3.5,I really struggled with these problem sets and only did the less comfortable version of Filter. I want to come back and do the more version at some point,44,44
+22,2021-12-28,1,Recover,2.5,,46.5,46.5
+23,2022-01-09,1,Lecture 5,2.5,Moved everything over from 2021 version of CS50 to 2022. Including getting set up on VSCode and resubmitting all problem sets (so I still have my score!).,49,49
+24,2022-01-10,1,Inheritance,1,,50,50
+25,2022-01-11,1,Speller,6,,56,56
+26,2022-01-15,1,Lecture 6,2.5,,58.5,58.5
+27,2022-01-15,1,Tournament,1,Really enjoying Python in comparison to C but I think that is to be expected.,59.5,59.5
+28,2022-01-15,1,Hello,0.1,,59.6,59.6
+29,2022-01-16,1,Mario (more),0.5,,60.1,60.1
+30,2022-01-16,1,Credit,0.5,,60.6,60.6
+31,2022-01-16,1,Readability,1,,61.6,61.6
+32,2022-01-16,1,DNA,2.5,,64.1,64.1
+33,2022-01-20,2,Python,16,Discovered Exercism.io and spent way too long going through the Python track until I hit classes and started to get pretty stuck. Something to revisit later I think,16,80.1
+34,2022-01-22,1,Lecture 7,2.5,"I already know a bit of SQL so this was fairly easily, and I enjoyed the The Office chat!",66.6,82.6
+35,2022-01-23,1,Songs,0.5,,67.1,83.1
+36,2022-01-23,1,Movies,1,,68.1,84.1
+37,2022-01-23,1,Fiftyville,1,I really enjoyed Fiftyville!,69.1,85.1
+38,2022-01-28,1,Lecture 8,2.5,,71.6,87.6
+39,2022-01-31,1,Homepage,2,"I didn't enjoy these tasks, I did the bare minimum beacuse I just wasn't enjoying it. Just find HTML pretty tedious, especially when there's not really an interesting goal.",73.6,89.6
+40,2022-01-31,1,Trivia,2,,75.6,91.6
+41,2022-02-05,2,Swift,3,Decided to have a go at Exercism.io's Swift track as I think I want to build an iOS app for my CS50 final project so want to get familiar with the syntax.,19,94.6
+42,2022-02-12,3,Learn to Code 1,1,,1,95.6
+43,2022-02-13,1,Lecture 9,2.5,,78.1,98.1
+44,2022-02-15,4,HTML Email Design,10,I spent a good amount of time at work this week designing an HTML and CSS email template from scratch. I actually really enjoyed this when there was an interesting focus. I'm not done with it so will revisit but was surprised how much I enjoyed it. And good to be able to use some new skills in my day job! I was capable of writing CSS and HTML before but I don't think I would have been able to do anything so complex or follow the articles about the different requirements for different email clients.,10,108.1
+45,2022-02-19,1,Birthdays,0.4,,78.5,108.5
+46,2022-02-28,1,Finance,8,This took me quite a long time but I actually quite enjoyed it once I got my head around the routes and methods.,86.5,116.5
+47,2022-03-03,1,Lecture 10,1.5,Final lecture!,88,118
+48,2022-02-04,1,Final Project,10,"I made a start on my final project, I decided againt the iOS app as I think I've just started to get my head around Python/Flask web apps and I want to understand more so decided to build a tool for my day job that is a web app with SQL database.",98,128
+49,2022-03-05,5,Lessons 1-3,3,I've been taking Udacity's Intro to Data Sceince course as I'm trying to work out what it is I want to focus us now I have a bit of a general grounding.,3,131
+50,2022-03-06,5,Lessons 4-5,2.5,I found the first bit of the Data Science course interesting and although it's still interesting I'm finding that the statistics consepts are going over my head so I'm not really following. If I want to pursue this more I think I will need to take a step back and do some statistics courses to refresh my knowledge! I have an A-Level in Maths and Further Maths so have covered some statistics but more in theory than actually working with large data sets.,5.5,133.5
+51,2022-03-06,1,Final Project,10,I've changed my mind on my final project again and am now working on the iOS app idea but just as a web app. I need to get something finished but I keep thinking of new things I want to try and build! Really going to try and stick with this to get CS50 finished so I can more freely move on and build my own thing!,108,143.5
+52,2022-03-06,6,Foundations,2.5,"I've made a start on The Odin Project while I work on my final project, hoping it will give me more direction. Initially didn't want to go down this route as I didn't think I wanted to do web development but I am actually enjoying it and it could be very useful in my current job, which would maybe give me an ability to learn as part of my job. Not sure but pursuing it for now I think.",2.5,146
+53,2022-03-10,7,Creating Log,2,"Every entry before this was added based on notes I'd taken or the blog posts I'd written as my first attempt at tracking my progress. I really don't think that's sustainable so have created this repo where I can add a little note rather than writing a whole post. My thinking is that I can build a program to add this info from the command line and automate it, but who knows!",2,148
+54,2022-03-15,6,Foundations,5,"I think CS50 has covered a lot of this info but am trying to work through it, think I'm going to do the Ruby track when I get done with Foundations",7.5,153
+55,2022-03-16,1,Final Project,10,"Still working on CS50 final project. Want to add some graphs and data visualisations which I have no idea how to do so that's the next challenge, but most functionality is now built!",118,163
