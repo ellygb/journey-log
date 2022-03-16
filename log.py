@@ -17,3 +17,5 @@ con.commit()
 #cur.executemany("INSERT INTO log (date, project_id, task, hours, description, project_hours, total_hours) VALUES (?, ?, ?, ?, ?, ?, ?)", to_db)
 #con.commit()
 #con.close()
+
+#add 3 hours today to journey log
