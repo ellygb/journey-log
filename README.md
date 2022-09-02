@@ -54,8 +54,106 @@ Tracking my journey to learn programming
 		
 		
 		
-		OLD DATA - Need to go back to finishing CS50
-		
+		OLD DATA
+		<tr>
+			<td>2022-05-29</td>
+			<td>-</td>
+			<td>2</td>
+			<td>183</td>
+		</tr>
+		<tr>
+			<td colspan="4">I procrastinated doing this for so long! But I finally got round to writing my readme and submitting!! I COMPLETED CS50!! I really loved the whole course and will probably revisit the lectures at some point! YAY!!</td>
+		</tr>
+		<tr>
+			<td>2022-04-03</td>
+			<td>-</td>
+			<td>4</td>
+			<td>181</td>
+		</tr>
+		<tr>
+			<td colspan="4">Made some final style changes and added some up to date data - took images and videos etc so I can put together a video to submit final project for CS50</td>
+		</tr>
+		<tr>
+			<td>2022-03-22</td>
+			<td>-</td>
+			<td>2</td>
+			<td>177</td>
+		</tr>
+		<tr>
+			<td colspan="4">Trying to work out a graph to show amount through the day but just can't get it to work, might end up not including this</td>
+		</tr>
+		<tr>
+			<td>2022-03-21</td>
+			<td>-</td>
+			<td>2.5</td>
+			<td>175</td>
+		</tr>
+		<tr>
+			<td colspan="4">Adding more graphs and sql queries</td>
+		</tr>
+		<tr>
+			<td>2022-03-20</td>
+			<td>-</td>
+			<td>2</td>
+			<td>172.5</td>
+		</tr>
+		<tr>
+			<td colspan="4">Improved SQL query used in complex calculation</td>
+		</tr>
+		<tr>
+			<td>2022-03-19</td>
+			<td>-</td>
+			<td>2</td>
+			<td>170.5</td>
+		</tr>
+		<tr>
+			<td colspan="4">More adjustments to data</td>
+		</tr>
+		<tr>
+			<td>2022-03-18</td>
+			<td>-</td>
+			<td>5</td>
+			<td>168.5</td>
+		</tr>
+		<tr>
+			<td colspan="4">Got first graph working and styled, started stacking other graphs on it - probably a better way to do this but just couldn't get it to show the data I want while all on one graph</td>
+		</tr>
+		<tr>
+			<td>2022-03-17</td>
+			<td>-</td>
+			<td>3</td>
+			<td>163.5</td>
+		</tr>
+		<tr>
+			<td colspan="4">Started using Google charts for graph instead of chart.js - maybe getting a little further</td>
+		</tr>
+		<tr>
+			<td>2022-03-16</td>
+			<td>-</td>
+			<td>2.5</td>
+			<td>160.5</td>
+		</tr>
+		<tr>
+			<td colspan="4">Reorganising db a bit to allow for columns I need in graph, fixing some calculations</td>
+		</tr>
+		<tr>
+			<td>2022-03-15</td>
+			<td>-</td>
+			<td>2</td>
+			<td>158</td>
+		</tr>
+		<tr>
+			<td colspan="4">Working on data for graphs</td>
+		</tr>
+		<tr>
+			<td>2022-03-14</td>
+			<td>-</td>
+			<td>2</td>
+			<td>156</td>
+		</tr>
+		<tr>
+			<td colspan="4">Changed CSS grid to flexbox and working on JS for graphs - really struggling to get the graphs data correct and loking how I want - really need to learn more JS!!</td>
+		</tr>
 		<tr>
 			<td>2022-03-13</td>
 			<td>55</td>
