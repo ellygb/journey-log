@@ -11,9 +11,6 @@ Tracking my journey to learn programming
 		</tr>
 	</thead>
 	<tbody>
-		
-		NEW DATA
-		
 		<tr>
 			<td>2022-09-01</td>
 			<td>-</td>
@@ -21,7 +18,7 @@ Tracking my journey to learn programming
 			<td>______</td>
 		</tr>
 		<tr>
-			<td colspan="4">Tackled adding email, got this working using mailtrap on both dev and prod. Ran in to a few errors and needed to hardcode some of the config variables rather than pull them from envirment variables, but got it working!</td>
+			<td colspan="4">Tackled adding email, got this working using mailtrap on both dev and prod. Ran in to a few errors and needed to hardcode some of the config variables rather than pull them from environment variables, but got it working! Think this is okay as it was TLS/SSL boolean settings not any sensitive info</td>
 		</tr>
 		<tr>
 			<td>2022-08-31</td>
@@ -30,7 +27,7 @@ Tracking my journey to learn programming
 			<td>______</td>
 		</tr>
 		<tr>
-			<td colspan="4">Think I've got my head around how to do the environment variables that now it works on both dev and prod database without hardcosing the urls</td>
+			<td colspan="4">Think I've got my head around how to do the environment variables that now it works on both dev and prod database without hardcoding the urls. Also set up cloudflare to allow me to add a CNAME record so the root domain can be used with heroku insteal of a subdomain</td>
 		</tr>
 		<tr>
 			<td>2022-08-30</td>
@@ -39,7 +36,7 @@ Tracking my journey to learn programming
 			<td>______</td>
 		</tr>
 		<tr>
-			<td colspan="4">Finally got it correctly working on postgres both locally and on Heroku, atm just having to comment out the incorrect database url for swapping between prod/dev - struggling to work out how to get it to this automatically</td>
+			<td colspan="4">Finally got it correctly working on postgres both locally and on Heroku, atm just having to comment out the incorrect database url for swapping between prod/dev - struggling to work out how to get it to this automatically. Did sign up for the free AWS tier as Heroku are going to be adding fees but once I realised the extra learning curve involved I thought Heroku would get me to a live and working app quicker</td>
 		</tr>
 		<tr>
 			<td>2022-08-28</td>
@@ -48,13 +45,80 @@ Tracking my journey to learn programming
 			<td>______</td>
 		</tr>
 		<tr>
-			<td colspan="4">Didn't spend as long as I would have liked this weekend, did research and starting getting sqlite changed to postgres</td>
+			<td colspan="4">Have SQLAlchemy working well now with sqlite which was a bit of a learning curve! now jsut got to move over to postgres, but hopefully that is easy now SQLAlchemy is implemented</td>
 		</tr>
-		
-		
-		
-		
-		OLD DATA
+		<tr>
+			<td>2022-08-27</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Written all queries now and think I've got it, had to add subqueries for some more complex ones and think there might still be a bit of ironing out to do, but have the bulk working now</td>
+		</tr>
+		<tr>
+			<td>2022-08-25</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Think I'm getting there - got all the classes set up to map my database tables and this can create all tables successfully now. Just need to rewrite all queries in SQLAlchemy now</td>
+		</tr>
+		<tr>
+			<td>2022-08-24</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Keep starting trying to follow a tutorial for adding SQLAlchemy but hitting issues, or the tutorial is set up for different circumstances. They all seem to explain how to start a project from scratch, I'm struggling to find help on moving a preexisitng project over.</td>
+		</tr>
+		<tr>
+			<td>2022-08-23</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Looks like I need to use postgres for the app - I have done all the install etc but all the tutorials I can find also use SQLAchemy and don't talk directly to the database with SQL - which is annoying cos I quite like wokring out SQL queries and SQLAlchemy uses python classes which I've never got my head around really!</td>
+		</tr>
+		<tr>
+			<td>2022-08-22</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">I've been trying to get this live on Heroku - this seems like a fairly beginner friendly option and there's lot of tutorials/documentation involving flask. I got it live and it seems to work but some research has told me I can't keep using sqlite as it wont hold data in a file reliably. So going to have to look at solving this</td>
+		</tr>
+		<tr>
+			<td>2022-08-20</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Have been doing lots of research into options to get the site live somewhere - honestly there seems to be so much involved that I didn't really know what to do or where to start, seems there's a million different options for everything! I looked at giving up and using another service but we jsut wouldnt get what we watned to I am perservering and going to work it out!</td>
+		</tr>
+		<tr>
+			<td>2022-08-18</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Have the bare bones of the app working locally now - the pages needed and the databases needed. No idea how to do the next part - getting it deployed somewhere</td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>-</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="4">NEED TO ADD IN HERE: when did i try laravel for a bit, then move to flask, then prob consistent build since then, either need folder info or could be internet history. Bought domain 10th - start then or had I already tried laravel by then</td>
+		</tr>
 		<tr>
 			<td>2022-05-29</td>
 			<td>-</td>
