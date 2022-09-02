@@ -11,6 +11,51 @@ Tracking my journey to learn programming
 		</tr>
 	</thead>
 	<tbody>
+		
+		NEW DATA
+		
+		<tr>
+			<td>2022-09-01</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Tackled adding email, got this working using mailtrap on both dev and prod. Ran in to a few errors and needed to hardcode some of the config variables rather than pull them from envirment variables, but got it working!</td>
+		</tr>
+		<tr>
+			<td>2022-08-31</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Think I've got my head around how to do the environment variables that now it works on both dev and prod database without hardcosing the urls</td>
+		</tr>
+		<tr>
+			<td>2022-08-30</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Finally got it correctly working on postgres both locally and on Heroku, atm just having to comment out the incorrect database url for swapping between prod/dev - struggling to work out how to get it to this automatically</td>
+		</tr>
+		<tr>
+			<td>2022-08-28</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Didn't spend as long as I would have liked this weekend, did research and starting getting sqlite changed to postgres</td>
+		</tr>
+		
+		
+		
+		
+		OLD DATA - Need to go back to finishing CS50
+		
 		<tr>
 			<td>2022-03-13</td>
 			<td>55</td>
