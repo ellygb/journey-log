@@ -117,7 +117,7 @@ Tracking my journey to learn programming
 			<td></td>
 		</tr>
 		<tr>
-			<td colspan="4">NEED TO ADD IN HERE: when did i try laravel for a bit, then move to flask, then prob consistent build since then, either need folder info or could be internet history. Bought domain 10th - start then or had I already tried laravel by then</td>
+			<td colspan="4">NEED TO ADD IN HERE: when did i try laravel for a bit, then move to flask, then prob consistent build since then, either need folder info or could be internet history. Bought domain 10th - start then or had I already tried laravel by then. stop laravel on 16th</td>
 		</tr>
 		<tr>
 			<td>2022-05-29</td>
