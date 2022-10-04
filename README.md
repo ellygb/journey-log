@@ -90,7 +90,7 @@ Tracking my journey to learn programming
 			<td>______</td>
 		</tr>
 		<tr>
-			<td colspan="4"Reworked how the header background colour with pseudo classes is done so that this can be reused on other pages without having to rewrite based on content></td>
+			<td colspan="4">Reworked how the header background colour with pseudo classes is done so that this can be reused on other pages without having to rewrite based on content</td>
 		</tr>
 		<tr>
 			<td>2022-09-19</td>
