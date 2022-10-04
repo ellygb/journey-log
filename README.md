@@ -12,6 +12,42 @@ Tracking my journey to learn programming
 	</thead>
 	<tbody>
 		<tr>
+			<td>2022-10-03</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Testing responsiveness and making little tweaks so it looks good at all sizes</td>
+		</tr>
+		<tr>
+			<td>2022-10-02</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Added JavaScript to get the countdown live and swapped font-awesome icons for my own SVGs</td>
+		</tr>
+		<tr>
+			<td>2022-09-29</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Adjusting CSS grid settings to get accordion looking tidy even on small screens</td>
+		</tr>
+		<tr>
+			<td>2022-09-28</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Redesigned the accordion now it's working so it has some extra info and changes colour based on whether it's completed or not</td>
+		</tr>
+		<tr>
 			<td>2022-09-27</td>
 			<td>-</td>
 			<td>3</td>
@@ -19,7 +55,8 @@ Tracking my journey to learn programming
 		</tr>
 		<tr>
 			<td colspan="4">Managed to get the JavaScript working for the accordion - just needed the script tag at the bottom of the body instead of in the head. Working now so going to play more to make it more interactive</td>
-		</tr><tr>
+		</tr>
+		<tr>
 			<td>2022-09-25</td>
 			<td>-</td>
 			<td>3</td>
@@ -27,7 +64,8 @@ Tracking my journey to learn programming
 		</tr>
 		<tr>
 			<td colspan="4">Changing part of RSVP page to be accordion so using JavaScript, having issue getting it working</td>
-		</tr><tr>
+		</tr>
+		<tr>
 			<td>2022-09-24</td>
 			<td>-</td>
 			<td>2</td>
