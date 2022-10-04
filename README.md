@@ -12,6 +12,170 @@ Tracking my journey to learn programming
 	</thead>
 	<tbody>
 		<tr>
+			<td>2022-09-27</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Managed to get the JavaScript working for the accordion - just needed the script tag at the bottom of the body instead of in the head. Working now so going to play more to make it more interactive</td>
+		</tr><tr>
+			<td>2022-09-25</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Changing part of RSVP page to be accordion so using JavaScript, having issue getting it working</td>
+		</tr><tr>
+			<td>2022-09-24</td>
+			<td>-</td>
+			<td>2</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Working on design for RSVP page, adding some SVGs for some designs and adjusting them in the code and with Tailwind</td>
+		</tr>
+		<tr>
+			<td>2022-09-21</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Final touches for pulling bits out and grouping so less inline classes needed and less duplication. Redesigning  how the radio buttons are styled.</td>
+		</tr>
+		<tr>
+			<td>2022-09-20</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4"Reworked how the header background colour with pseudo classes is done so that this can be reused on other pages without having to rewrite based on content></td>
+		</tr>
+		<tr>
+			<td>2022-09-19</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Pretty much ready to move on to other pages now but am going to try and rework the header as this isn't displaying neatly on other pages if certain content isn't there</td>
+		</tr>
+		<tr>
+			<td>2022-09-18</td>
+			<td>-</td>
+			<td>5</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Still just chipping away at little display issues</td>
+		</tr>
+		<tr>
+			<td>2022-09-17</td>
+			<td>-</td>
+			<td>5</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Generally trying to tidy up CSS so its responsive and reusable</td>
+		</tr>
+		<tr>
+			<td>2022-09-15</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Making responsiveness edits so everything works at all sizes, making the TailwindCSS classes fairly longwinded so may want to reorganise how some of this is managed so I can pull repeating bits out</td>
+		</tr>
+		<tr>
+			<td>2022-09-14</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Reworking the design for a mobile device</td>
+		</tr><tr>
+			<td>2022-09-13</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Getting my head around using pseudo CSS elements to add additional borders with offsets. Got most of the styling on main page done, still need to make responsive and probably group some styles and pull them out to make reusing easier</td>
+		</tr><tr>
+			<td>2022-09-12</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Making more changes with TailwindCSS, feel like using it is quicker than normal CSS but I am learning the Tailwind way to do things rather than CSS in places so could be confusing in future, but I'm learning about properties I've never learnt before so still good</td>
+		</tr><tr>
+			<td>2022-09-11</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Created homepage design in Figma so have something to match so now been rebuilding pieces to match that design.</td>
+		</tr><tr>
+			<td>2022-09-08</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Chipping away at it, not super loving the design so not sure best course of action, way need to actually create designs before I go much further</td>
+		</tr><tr>
+			<td>2022-09-07</td>
+			<td>-</td>
+			<td>3.5</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Getting to grips with breakpoints which have confused me a little in terms of setting something at a small breakpoint but doesn't that mean it will look like that before or after the small breakpoint (it's after!)</td>
+		</tr>
+		<tr>
+			<td>2022-09-06</td>
+			<td>-</td>
+			<td>3.5</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">More playing with Tailwind -starting to get something I like. Think it will be easier to carry on enjoying it when I have a bit more finished design</td>
+		</tr>
+		<tr>
+			<td>2022-09-05</td>
+			<td>-</td>
+			<td>3</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Moved from bootstrap to tailwind so I have more flexibility with the design without having a load of bootstrap modifications</td>
+		</tr>
+		<tr>
+			<td>2022-09-04</td>
+			<td>-</td>
+			<td>8</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Added log of emails so had to learn about flask migrate to make database migrations on dev and on Heroku for production. Added flash messages but wrestling with JavaScript to get them to hide after certain time. Started filling content</td>
+		</tr>
+		<tr>
+			<td>2022-09-03</td>
+			<td>-</td>
+			<td>4</td>
+			<td>______</td>
+		</tr>
+		<tr>
+			<td colspan="4">Got email all set up and working, successfully sends from own domain now</td>
+		</tr>
+		<tr>
 			<td>2022-09-01</td>
 			<td>-</td>
 			<td>3</td>
